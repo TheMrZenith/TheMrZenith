@@ -12,9 +12,9 @@
 
 ###
 
-<h1 align="center">Salve, sono ZenithRealm. Sì, proprio io. 👋</h1>
+<h1 align="center">Salve, sono TheMrZenith Sì, proprio io. 👋</h1>
 
-### 👩‍💻 Chi Sono (o almeno ci provo)
+### 👩‍💻 Chi Sono (o almeno cosa provo ad essere)
 
 Sono quel tizio che passa più tempo a cercare di far funzionare il codice che a scrivere codice che funziona. Amo la programmazione, l'automazione e, soprattutto, le cose che si rompono quando meno te lo aspetti. Se hai un progetto che ti fa impazzire, chiamami: sono un mago nel fare danni (e a volte anche nel risolverli). 
 
