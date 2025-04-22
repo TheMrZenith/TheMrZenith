@@ -34,6 +34,6 @@ Sono quel tizio che passa più tempo a cercare di far funzionare il codice che a
 
 ### 🔥 Le Mie Statistiche (non sono esattamente impressionanti, ma...)
 
-![Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenithRealm&show_icons=true&theme=dark)
+![Zenith's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMrZenith &show_icons=true&theme=dark)
 
 ⭐ Se ti piacciono i disastri informatici, i codici non funzionanti e l'incredibile arte di risolvere problemi che non avevo intenzione di creare, siamo sulla stessa lunghezza d'onda! 🚀
